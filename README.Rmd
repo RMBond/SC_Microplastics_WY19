@@ -1,16 +1,6 @@
 ---
 title: "Scott Creek WY2019 Microplastics Study"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
----
-title: "Scott Lagoon 2018 DTS Study (AKO analysis notes)"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   github_document:
     toc: true
@@ -25,7 +15,7 @@ knitr::opts_chunk$set(
   fig.path = "readme-figs/"
 )
 ```
-
+---
 
 ## General Goals
 
